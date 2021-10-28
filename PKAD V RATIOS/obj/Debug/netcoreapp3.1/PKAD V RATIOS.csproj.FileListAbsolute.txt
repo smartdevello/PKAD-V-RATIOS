@@ -1,0 +1,31 @@
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\bin\Debug\netcoreapp3.1\PKAD V RATIOS.exe
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\bin\Debug\netcoreapp3.1\PKAD V RATIOS.deps.json
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\bin\Debug\netcoreapp3.1\PKAD V RATIOS.runtimeconfig.json
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\bin\Debug\netcoreapp3.1\PKAD V RATIOS.runtimeconfig.dev.json
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\bin\Debug\netcoreapp3.1\PKAD V RATIOS.dll
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\bin\Debug\netcoreapp3.1\PKAD V RATIOS.pdb
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\bin\Debug\netcoreapp3.1\NPOI.dll
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\obj\Debug\netcoreapp3.1\PKAD V RATIOS.csproj.AssemblyReference.cache
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\obj\Debug\netcoreapp3.1\App.g.cs
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\obj\Debug\netcoreapp3.1\PKAD V RATIOS_MarkupCompile.cache
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\obj\Debug\netcoreapp3.1\PKAD V RATIOS_MarkupCompile.lref
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\obj\Debug\netcoreapp3.1\PKAD V RATIOS.g.resources
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\obj\Debug\netcoreapp3.1\PKAD V RATIOS.AssemblyInfoInputs.cache
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\obj\Debug\netcoreapp3.1\PKAD V RATIOS.AssemblyInfo.cs
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\obj\Debug\netcoreapp3.1\PKAD V RATIOS.csproj.CoreCompileInputs.cache
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\obj\Debug\netcoreapp3.1\PKAD V RATIOS.csproj.CopyComplete
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\obj\Debug\netcoreapp3.1\PKAD V RATIOS.dll
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\obj\Debug\netcoreapp3.1\PKAD V RATIOS.pdb
+E:\My Work\2021\9\PKAD V RATIOS\PKAD V RATIOS\obj\Debug\netcoreapp3.1\PKAD V RATIOS.genruntimeconfig.cache
